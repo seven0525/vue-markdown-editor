@@ -1,6 +1,6 @@
 # vue-app
 
-> A Vue.js project
+> Vue.jsでMarkdownエディタを作成（随時機能を追加実装）
 
 ## Build Setup
 
